@@ -22,6 +22,8 @@
 - [Awesome AI Vibe Coding 🚀](#awesome-ai-vibe-coding-)
   - [📑 Table of Contents](#-table-of-contents)
   - [🛠️ Core Engines (The Vibe Engines)](#️-core-engines-the-vibe-engines)
+  - [🔌 IDE Plugins \& Extensions](#-ide-plugins--extensions)
+  - [🛠️ Development Tools](#️-development-tools)
   - [🌐 Web-based Builders](#-web-based-builders)
   - [🏗️ Vibe Tech Stack (The Vibe Stack)](#️-vibe-tech-stack-the-vibe-stack)
   - [📜 Rules \& Instructions](#-rules--instructions)
@@ -35,18 +37,35 @@
 *These are the most advanced IDEs that get you into the "Vibe" state .*
 
 - [Aider](https://aider.chat/) - 💻 An AI programming expert in the terminal, perfect for hardcore Vibe-coders.
+- [Continue](https://github.com/continuedev/continue) - 🔄 Open-source autopilot for VS Code and JetBrains, build your own in-editor AI agents with plugins and rules.
 - [Cursor](https://cursor.com/) - 🧩 The hottest AI-native editor right now, synonymous with Vibe-coding.
+- [GitHub Copilot CLI](https://github.com/github/copilot-cli) - 🤖 Command-line version of GitHub Copilot with agent capabilities.
 - [PearAI](https://trypear.ai/) - 🍐 An open-source AI editor committed to fully transparent AI collaboration.
-- [Trae](https://www.trae.sh/) - ⚡ An adaptive AI programming assistant from ByteDance.
-- [Windsurf](https://codeium.com/windsurf) - 🌊 From Codeium, a next-generation IDE emphasizing context awareness.
+- [Trae](https://www.trae.ai/) - ⚡ An adaptive AI programming assistant from ByteDance.
+- [Windsurf](https://windsurf.com/) - 🌊 From Codeium, a next-generation IDE emphasizing context awareness.
+- [Zed](https://zed.dev/) - ⚡ A high-performance, multiplayer code editor with AI assistance built in.
+
+## 🔌 IDE Plugins & Extensions
+*Enhance your existing editor with AI superpowers.*
+
+- [Cline](https://github.com/cline/cline) - 🔌 Connects to your CLI and editor, interprets natural language commands.
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code) - 🦘 An enhanced version of Cline with additional features.
+
+## 🛠️ Development Tools
+*Essential utilities to supercharge your Vibe-coding workflow.*
+
+- [CodeGuide](https://codeguide.dev/) - 📖 Tool that builds documentation for AI-built projects automatically.
+- [Repomix](https://github.com/yamadashy/repomix) - 📦 A god-tier tool that packages your entire codebase into a single Prompt.
 
 ## 🌐 Web-based Builders
 *No environment setup needed, deploy from 0 to 1 directly through conversation.*
 
 - [Bolt.new](https://bolt.new/) - ⚡ A browser-based full-stack project generator.
 - [Lovable](https://lovable.dev/) - 🪄 An incredibly powerful AI full-stack application generation platform.
+- [Replit](https://replit.com/) - 🚀 AI-powered online IDE, type what you want and let the AI construct it.
+- [ScreenShot-to-Code](https://github.com/abi/screenshot-to-code) - 📸 Generate Vibe code directly from images.
 - [Tempo Labs](https://www.tempolabs.ai/) - 🚀 An AI tool focused on visual React building.
-- [v0.dev](https://v0.dev/) - 🎨 From Vercel, specialized in UI and component generation.
+- [v0.dev](https://v0.app/) - 🎨 From Vercel, specialized in UI and component generation.
 
 ## 🏗️ Vibe Tech Stack (The Vibe Stack)
 *The essence of Vibe-coding lies in "low friction" and "rapid feedback."*
@@ -60,18 +79,17 @@
 ## 📜 Rules & Instructions
 *How to write `.cursorrules` to make AI perfectly understand your intentions.*
 
+- [AGENTS.md](https://github.com/agentsmd/agents.md) - 📋 A simple, open format specification for guiding coding agents, similar to `.cursorrules`.
 - [Anthropics Skills](https://github.com/anthropics/skills) - 🎓 Official repository of Agent Skills from Anthropic, demonstrating creative, technical, and enterprise workflows.
 - [Best-Cursor-Rules](https://github.com/biilmann/cursor-rules) - An excellent collection of prompt engineering resources.
 - [Cursor Directory](https://cursor.directory/) - 📚 A library of best `.cursorrules` instructions for various frameworks.
 - [OpenSkills](https://github.com/numman-ali/openskills) - 🔧 Universal skills loader for AI coding agents, implements Anthropic's Agent Skills specification.
-- [Repomix](https://github.com/yamadashy/repomix) - 📦 A god-tier tool that packages your entire codebase into a single Prompt.
 
 ## 🎨 Aesthetics & Design
 *The results of Vibe-coding must have top-tier visual appeal.*
 
-- [Framer Motion](https://www.framer.com/motion/) - ✨ Let AI help you generate fluid interactive animations.
+- [Framer Motion](https://motion.dev/) - ✨ A production-grade animation library for the web.
 - [Lucide](https://lucide.dev/) - 💎 A clean and beautiful icon solution.
-- [ScreenShot-to-Code](https://github.com/abi/screenshot-to-code) - 📸 Generate Vibe code directly from images.
 - [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 🎯 Professional UI/UX design intelligence with 57+ styles, 95+ color palettes, and comprehensive design guidelines.
 
 ## 🧠 Philosophy & Learning
