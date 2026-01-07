@@ -44,18 +44,26 @@
 - [Trae](https://www.trae.ai/) - ⚡ 字节跳动出品的自适应 AI 编程助手。
 - [Windsurf](https://codeium.com/windsurf) - 🌊 来自 Codeium，强调上下文感知的次世代 IDE。
 - [Zed](https://zed.dev/) - ⚡ 高性能的多人在线代码编辑器，内置 AI 辅助功能。
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🤖 开源的 AI 软件开发代理平台。
+- [Tabby](https://github.com/TabbyML/tabby) - 🐱 自托管的 AI 编程助手。
+- [Void](https://github.com/voideditor/void) - 🕳️ 开源的 Cursor 替代品。
 
 ## 🔌 IDE 插件与扩展 (IDE Plugins & Extensions)
 *为你现有的编辑器增加 AI 超能力。*
 
+- [Avante.nvim](https://github.com/yetone/avante.nvim) - 🌙 Neovim 的 Cursor 风格 AI 插件。
 - [Cline](https://github.com/cline/cline) - 🔌 连接 CLI 和编辑器，解释自然语言命令。
+- [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) - ✈️ 从头开始编写可扩展应用的 AI 开发者。
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code) - 🦘 Cline 的增强版本，提供额外功能。
 
 ## 🛠️ 开发工具 (Development Tools)
 *提升 Vibe-coding 工作流的必备工具。*
 
 - [CodeGuide](https://codeguide.dev/) - 📖 为 AI 构建的项目自动生成文档的工具。
+- [Gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 🏗️ 用自然语言生成整个代码库。
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🤖 开源的自主 AI 软件工程师。
 - [Repomix](https://github.com/yamadashy/repomix) - 📦 将整个代码库打包成一个 Prompt 的神级工具。
+- [Sweep](https://github.com/sweepai/sweep) - 🧹 AI 驱动的 GitHub Issue 自动修复工具。
 
 ## 🌐 网页即时构建 (Web-based Builders)
 *不需要配置环境，直接通过对话从 0 到 1 部署。*
@@ -66,6 +74,7 @@
 - [ScreenShot-to-Code](https://github.com/abi/screenshot-to-code) - 📸 直接根据图片生成 Vibe 代码。
 - [Tempo Labs](https://www.tempolabs.ai/) - 🚀 专注于 React 视觉化构建的 AI 工具。
 - [v0.dev](https://v0.app/) - 🎨 Vercel 出品，专门处理 UI 与组件生成。
+- [Draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - ✏️ 画草图生成 HTML 的工具。
 
 ## 🏗️ Vibe 技术栈 (The Vibe Stack)
 *Vibe-coding 的精髓在于"低摩擦"和"快速反馈"。*
@@ -84,6 +93,8 @@
 - [Best-Cursor-Rules](https://github.com/biilmann/cursor-rules) - 优秀的提示词工程集合。
 - [Cursor Directory](https://cursor.directory/) - 📚 各种框架的最佳 `.cursorrules` 指令库。
 - [OpenSkills](https://github.com/numman-ali/openskills) - 🔧 AI 编码代理的通用技能加载器，实现了 Anthropic 的 Agent Skills 规范。
+- [Awesome Cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📜 全面的 cursorrules 集合。
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 💬 优秀的 ChatGPT 提示词集合。
 
 ## 🎨 视觉与审美 (Aesthetics & Design)
 *Vibe-coding 的成果必须具有顶级的视觉表现力。*
@@ -91,9 +102,13 @@
 - [Framer Motion](https://motion.dev/) - ✨ 让 AI 帮你生成灵动的交互动画。
 - [Lucide](https://lucide.dev/) - 💎 简洁美观的图标方案。
 - [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 🎯 专业的 UI/UX 设计智能工具，包含 57+ 种风格、95+ 种配色方案和全面的设计指南。
+- [Iconify](https://github.com/iconify/iconify) - 🎨 统一的图标框架，包含 200k+ 图标。
+- [React Spring](https://github.com/pmndrs/react-spring) - 🌸 基于弹簧物理的动画库。
 
 ## 🧠 哲学与学习 (Philosophy & Learning)
 *理解 Vibe-coding 背后的思维转变。*
+
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 📚 全面的提示词工程指南。
 
 ---
 

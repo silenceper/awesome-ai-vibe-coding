@@ -44,18 +44,26 @@
 - [Trae](https://www.trae.ai/) - ⚡ An adaptive AI programming assistant from ByteDance.
 - [Windsurf](https://windsurf.com/) - 🌊 From Codeium, a next-generation IDE emphasizing context awareness.
 - [Zed](https://zed.dev/) - ⚡ A high-performance, multiplayer code editor with AI assistance built in.
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🤖 An open-source AI software development agent platform.
+- [Tabby](https://github.com/TabbyML/tabby) - 🐱 A self-hosted AI coding assistant.
+- [Void](https://github.com/voideditor/void) - 🕳️ An open-source alternative to Cursor.
 
 ## 🔌 IDE Plugins & Extensions
 *Enhance your existing editor with AI superpowers.*
 
+- [Avante.nvim](https://github.com/yetone/avante.nvim) - 🌙 A Cursor-style AI plugin for Neovim.
 - [Cline](https://github.com/cline/cline) - 🔌 Connects to your CLI and editor, interprets natural language commands.
+- [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) - ✈️ An AI developer that writes scalable apps from scratch.
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code) - 🦘 An enhanced version of Cline with additional features.
 
 ## 🛠️ Development Tools
 *Essential utilities to supercharge your Vibe-coding workflow.*
 
 - [CodeGuide](https://codeguide.dev/) - 📖 Tool that builds documentation for AI-built projects automatically.
+- [Gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 🏗️ Generate an entire codebase with natural language.
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🤖 An open-source autonomous AI software engineer.
 - [Repomix](https://github.com/yamadashy/repomix) - 📦 A god-tier tool that packages your entire codebase into a single Prompt.
+- [Sweep](https://github.com/sweepai/sweep) - 🧹 AI-powered GitHub Issue auto-fixer.
 
 ## 🌐 Web-based Builders
 *No environment setup needed, deploy from 0 to 1 directly through conversation.*
@@ -66,6 +74,7 @@
 - [ScreenShot-to-Code](https://github.com/abi/screenshot-to-code) - 📸 Generate Vibe code directly from images.
 - [Tempo Labs](https://www.tempolabs.ai/) - 🚀 An AI tool focused on visual React building.
 - [v0.dev](https://v0.app/) - 🎨 From Vercel, specialized in UI and component generation.
+- [Draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - ✏️ Draw a sketch and generate HTML from it.
 
 ## 🏗️ Vibe Tech Stack (The Vibe Stack)
 *The essence of Vibe-coding lies in "low friction" and "rapid feedback."*
@@ -84,6 +93,8 @@
 - [Best-Cursor-Rules](https://github.com/biilmann/cursor-rules) - An excellent collection of prompt engineering resources.
 - [Cursor Directory](https://cursor.directory/) - 📚 A library of best `.cursorrules` instructions for various frameworks.
 - [OpenSkills](https://github.com/numman-ali/openskills) - 🔧 Universal skills loader for AI coding agents, implements Anthropic's Agent Skills specification.
+- [Awesome Cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📜 A comprehensive collection of cursorrules for various use cases.
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 💬 A curated list of awesome ChatGPT prompts.
 
 ## 🎨 Aesthetics & Design
 *The results of Vibe-coding must have top-tier visual appeal.*
@@ -91,9 +102,13 @@
 - [Framer Motion](https://motion.dev/) - ✨ A production-grade animation library for the web.
 - [Lucide](https://lucide.dev/) - 💎 A clean and beautiful icon solution.
 - [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 🎯 Professional UI/UX design intelligence with 57+ styles, 95+ color palettes, and comprehensive design guidelines.
+- [Iconify](https://github.com/iconify/iconify) - 🎨 A unified icon framework with 200k+ icons.
+- [React Spring](https://github.com/pmndrs/react-spring) - 🌸 A spring-physics based animation library.
 
 ## 🧠 Philosophy & Learning
 *Understanding the mindset shift behind Vibe-coding.*
+
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 📚 A comprehensive guide to prompt engineering techniques.
 
 
 ---
