@@ -64,6 +64,8 @@
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🤖 An open-source autonomous AI software engineer.
 - [Repomix](https://github.com/yamadashy/repomix) - 📦 A god-tier tool that packages your entire codebase into a single Prompt.
 - [Sweep](https://github.com/sweepai/sweep) - 🧹 AI-powered GitHub Issue auto-fixer.
+- [NextReset](https://nextreset.ai/) - ⏱️ Independent Codex reset-history tracker with official incident sources and a browser-local personal timer.
+
 
 ## 🌐 Web-based Builders
 *No environment setup needed, deploy from 0 to 1 directly through conversation.*
