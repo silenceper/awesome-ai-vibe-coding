@@ -75,6 +75,7 @@
 - [Tempo Labs](https://www.tempolabs.ai/) - 🚀 An AI tool focused on visual React building.
 - [v0.dev](https://v0.app/) - 🎨 From Vercel, specialized in UI and component generation.
 - [Draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - ✏️ Draw a sketch and generate HTML from it.
+- [AppWizzy](https://appwizzy.com/) - ☁️ AI web app builder with runtime templates, dedicated cloud development VMs, and Git-backed editing.
 
 ## 🏗️ Vibe Tech Stack (The Vibe Stack)
 *The essence of Vibe-coding lies in "low friction" and "rapid feedback."*
